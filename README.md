@@ -1,70 +1,12 @@
-```text
-┌─[rozmiarD@github]─[~]
-└─$ fastfetch
+<p align="center">
+  <img src="./assets/hero.svg" alt="rozmiarD terminal profile — ASCII portrait and fastfetch" width="100%" />
+</p>
 
-                                    ..                                             rozmiarD@github
-                                .:::-=====::-=*=:                                  ────────────────────────────────
-                                ..::.:::-=+**=--=##+:                              Name       Krzysztof Probola
-                                            :-++==**#++=                           Focus      Security · Systems
-                                     ...::--=====-:.:=*#+=                                    AI Governance
-                                        ::.::....::-==:..:*-                       Building   SCLite · GovEngine
-                         .    ..  .:::-::..:::::-==:  ::  .-*=                                RExecOP · Tecrax
-                   ..:::::...:::===++***##*###########+=-: .=-=.                   Languages  Python · TypeScript · Bash
-                ..::::::::::-==+**###%%%@@@@@@@@@@@@@@@@@%#-.::::                  Runtime    Linux · Docker
-                .::---======++*#####%%%%%%@@@@%%@@@@@@@@@%%%#--*#+                 Location   Poland
-            .  .:----=======++*#####%%%%@@@%@%%%%@@@@@@@@@@%%%#==-.                Status     building...
-              .:::--========*######%%%%@%@%%%@@@@@@@@@@@@@@@@%%%+=:.     
-              ..::-====++=++*#######%@@@@%%%##%@@@@@@@@@@@@@@%%%%#=:.              ┌─[rozmiarD@github]─[~/mission]
-              ..::-====+*#***###%##%@@@@%%%%%#%@@@@@@@@@@@@@@@@@@@#=-              └─$ cat statement.txt
-              ..:::-==+**##########%@@@%%%%%%%%@@@@@@@@@@@@@@@@@@@%*=:   
-              .::::-===+**#########%@@@%%%%###%@@@@@@@@@@@@@@@@@@@@%+=             secure systems
-                ::--====+**#######%%@@%%%%%%%#%@@@@@@@@@@@@@@@@@@@@%#+:            governed automation
-              ...:---===**######%%%%#%%%##%%%%%@@@@@@@@@@@@@@@@@@@@@%#:            auditable AI
-              .::::---==*######%%%%#######%%@@@@@@@@@@@@@@@@@@@@@@@@@#-  
-              .:::::--==+*###@%%@%%######%@@@@@@@@@@@@@@@@@@@@@@@@@@@%=            ┌─[rozmiarD@github]─[~]
-.             .:::--====+*###%@%%@%%###%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%=            └─$ uptime
-             .::--======+*###%@@@%@%###%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@%=  
-           ...::::::-==+**#+##@@@%%%#*########%@@@@@@@@@@@@@@@@@@@@@%%=            still compiling.
-           ....:.   .::--===+*###%###+###**+=++++*####%@@@@@@@@@@@@@%#:  
-              .:::.      ..::==*###%#+*##++===-::-=+##%%%@@@@@@@@@@@%#.            ┌─[rozmiarD@github]─[~]
-             .:-==+===::.     .:=*%@@@%##===-:::-=+##%@@@@@%%@@@@@@@%#*=           └─$ _
-                     .   .      -*%@@@@%+--:...    :...:+#%@@@@@@@@@%%@#:
-                 .. ..==.       :#%@@@@@%*+=::---.::*@#++==*%@@@@@@@%%#= 
-              :---::-==-:       =#%@@@@@@@#*=-=++==#%%@@@@@%@@@@@@@@%#+: 
-      ....     .:---=--:.      .=##@@@@@@@#+==--=*##%@@@@@@@@@@@@@@%%%*. 
-      .::--:::::::::-::.        -*%@@@@@@@@@%###%%@@@@@@@@@@@@@@@@@@#%=  
-      .::-==========-::.       .-#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#%:  
-      ..::-====+====-::.      .:=#%@@@@@@@@@@@@@@@%%%@@@@@@@@@@@@@%#%%:  
-       .:::-=======-::.       :=*###%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#@%:  
-        .::---====-::.       .-+####@@@@@@@@@@@@%@@@@@@@@@@@@@@@@%##%%-  
-         .::::----::.        .-+**#%@@@%@@@@#%%%@@@@@@@@@@@@@@@@@%#%@%:  
-           .:::::::.           :-=+###-::+#@@####@@@@@@@@@@@@@@@%#+%@%=  
-           ....:::.               :#%@@%##@@@@%##%%@@@@@@@@@@@@@%==#*:   
-          .....:::..          .::-=##*+*#@@@@@@@%#%@@@@@@@@@@@@%+-:      
-           .....::.          .-==:...=-:-=+#%%@@@@@@@@@@@@@@@@%+=+:      
-           .....              :-:  .-::--:::-=+*#@@@@@@@@@@@@%+==-       
-                              ::.  .==::.:--======*#@@@@@@@%*==-:.       
-                              .-===---======--::---=%@@@@###=:::-        
-                                 :--:-=++****-  .::=#@@@#++=--::.        
-                 ..:.       .::-===*#%@@@@@@@@#+:::=#@%+=+-::: .         
-                  .          .:.::-==*##%%@@@@@#=::*%#+===:.:.           
-                      .        .. .:-:=##@@@@@%#=--++==:-:..:.           
-                        ...    . .:=+#%%%%%%%#*=:-:=#-:. .::             
-                             :::..:-==*#%%###==-::::==:  .:              
-                            .:::-:::---==+---::..::::.                   
-                            ..:.:::--=-:--:.:-..:..:                     
-                               ..  .:-:::.::::::.      -                 
-                            .       ..    .          :#:                 
-                                                   :+#*                  
-                                                 =####:                  
-                                             .:+##%##:                   
-                                         ::=+**##+-.                     
-```
+<p>
+  <img src="./assets/header-whoami.svg" alt="whoami" width="100%" />
+</p>
 
-```text
-┌─[rozmiarD@github]─[~]
-└─$ whoami
-
+<pre>
 Messing with computers since 1994.
 Fixing some, breaking others, automating the rest.
 
@@ -72,12 +14,13 @@ These days: Linux, networks, infrastructure,
 security, systems architecture and GenAI.
 
 Still changing things that probably worked fine before I touched them.
-```
+</pre>
+
+<p>
+  <img src="./assets/header-projects.svg" alt="projects" width="100%" />
+</p>
 
 <pre>
-┌─[rozmiarD@github]─[~/projects]
-└─$ tree -L 2
-
 .
 ├── governed-systems
 │   ├── <a href="https://github.com/rozmiarD/SCLite">SCLite</a>
@@ -102,10 +45,11 @@ Still changing things that probably worked fine before I touched them.
         └── tactics · cards · tiny plastic people
 </pre>
 
-```text
-┌─[rozmiarD@github]─[~/architecture]
-└─$ systemctl list-dependencies governed-stack.target
+<p>
+  <img src="./assets/header-architecture.svg" alt="architecture" width="100%" />
+</p>
 
+<pre>
 governed-stack.target
 ● ├─tecrax.profile
 ● │ ├─rexecop.runtime
@@ -125,32 +69,35 @@ tecrax.profile      domain semantics / intents / workflows
 rexecop.runtime     execution / lifecycle / I/O
 govengine.service   policy / approval / governance
 sclite.verify       contracts / evidence / verification
-```
+</pre>
 
-```text
-┌─[rozmiarD@github]─[~/current]
-└─$ ps aux | grep active
+<p>
+  <img src="./assets/header-current.svg" alt="current" width="100%" />
+</p>
 
+<pre>
 PROJECT      STATE      FOCUS
 SCLite       stable     contracts / verification
 GovEngine    running    governance / policy
 RExecOP      running    execution / runtime
 Tecrax       running    infra / security ops
-```
+</pre>
+
+<p>
+  <img src="./assets/header-links.svg" alt="links" width="100%" />
+</p>
 
 <pre>
-┌─[rozmiarD@github]─[~/.links]
-└─$ cat contact.txt
-
 github    <a href="https://github.com/rozmiarD">github.com/rozmiarD</a>
 linkedin  <a href="https://www.linkedin.com/in/krzysztofprobola/">linkedin.com/in/krzysztofprobola</a>
 email     <a href="mailto:probola.k@gmail.com">probola.k@gmail.com</a>
 </pre>
 
-```text
-┌─[rozmiarD@github]─[~]
-└─$ exit
+<p>
+  <img src="./assets/header-exit.svg" alt="exit" width="100%" />
+</p>
 
+<pre>
 logout
 Connection to github closed.
-```
+</pre>
