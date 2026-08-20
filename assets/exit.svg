@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1680" height="198" viewBox="0 0 1680 198" role="img" aria-label="exit section"><defs>
+<style>
+  .mono { font-family: "DejaVu Sans Mono", Consolas, monospace; }
+  .txt { fill:#c9d1d9; }
+  .muted { fill:#7d8590; }
+  .cyan { fill:#59e3ff; }
+</style>
+</defs><rect width="1680" height="198" rx="16" fill="#0d1117"/><rect x="1" y="1" width="1678" height="196" rx="15" fill="none" stroke="#30363d"/><g class="mono"><text x="32" y="38" class="cyan" font-size="18" font-weight="600" xml:space="preserve">┌─[rozmiarD@github]─[~]</text><text x="32" y="66" class="cyan" font-size="18" font-weight="600" xml:space="preserve">└─$ exit</text><text x="32" y="124" class="txt" font-size="17" xml:space="preserve">logout</text><text x="32" y="148" class="txt" font-size="17" xml:space="preserve">Connection to github closed.</text></g></svg>
